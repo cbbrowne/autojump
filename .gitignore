@@ -7,3 +7,7 @@ __pycache__
 *.patch
 .tox
 tags
+*.dat
+*.exe
+bin
+pkg
